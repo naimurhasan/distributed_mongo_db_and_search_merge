@@ -22,7 +22,7 @@ node seed/seed_work.js
 
 
 Sample Education DB Docs:
-```json
+```
 {
         studentID: 1001,
         name: 'Alice Smith',
@@ -51,7 +51,7 @@ Sample Education DB Docs:
 
 
 Sample Work DB Docs:
-```json
+```
 {
         studentID: 1001,
         name: 'Alice Smith',
@@ -72,7 +72,7 @@ Sample Work DB Docs:
 ```
 
 Sample Research DB Docs:
-```json
+```
 {
           studentID: 1001,
           name: 'Alice Smith',
